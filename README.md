@@ -2,4 +2,4 @@
 
 This is an Interpreter for BrainFuck developed in JAVA.
 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot.PNG)
