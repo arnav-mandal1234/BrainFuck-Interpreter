@@ -10,8 +10,12 @@ public class BrainFuckInterpreter {
 	public static void main(String[] args) {
 		Scanner a = new Scanner(System.in);
 		
+		System.out.print("Input 	: ");
+		
 		//input String
 		StringBuilder s = new StringBuilder(a.nextLine());
+		
+		System.out.print("Output 	: ");
 		
 		//variables
 		int arr[] = new int[30000]; 	  //for tracking
